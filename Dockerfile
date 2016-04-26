@@ -2,7 +2,7 @@
 #
 # VERSION               0.0.1
 
-FROM      ubuntu:latest
+FROM ubuntu:13.04
 
 MAINTAINER Gen Takahashi <gen.takahashi@drecom.co.jp>
 
